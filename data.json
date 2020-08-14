@@ -1,0 +1,41 @@
+{
+	"details":{
+		"name":"Srilekha",
+		"age":19,
+		"picture":"images/notvariables.png",
+		"skills":["good at communication","writing","typing"]
+	},
+	"friends":[
+		{
+			"name":"P.Preethi",
+			"age":20,
+			"EducationalQualification":"MBBS",
+			"Hobbies":["shettle","carroms"]
+
+		},
+		{
+			"name":"K.Siri Teja Sree",
+			"age":21,
+			"EducationalQualification":"TTC",
+			"Hobbies":["Reading books","cooking","watching movies"]
+		},
+		{
+			"name":"Reshma",
+			"age":26,
+			"EducationalQualification":"Architecture",
+			"Hobbies":["gardening","playing chess"]
+		},
+		{
+			"name":"Geeta",
+			"age":28,
+			"EducationalQualification":"Aeronatical Engineer",
+			"Hobbies":["sketching","playing badminton"]
+		},
+		{
+			"name":"Sheela",
+			"age":25,
+			"EducationalQualification":"Police",
+			"Hobbies":["meditation","painting"]
+		}
+	]
+}
